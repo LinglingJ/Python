@@ -1,8 +1,4 @@
-#To run a python program 
-# 1. go to the command window
-# 2. Navigate to directory of python file
-# 3. Type: Python Hello.Py
-#
+
 import random
 
 def drawBoard(board):
